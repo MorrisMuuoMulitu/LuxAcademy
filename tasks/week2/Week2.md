@@ -2,4 +2,4 @@
 
 ![Screenshot1](https://github.com/MorrisMuuoMulitu/LuxAcademy/blob/main/tasks/week2/Screenshot1.png)
 
-![Screenshot2](https://github.com/MorrisMuuoMulitu/LuxAcademy/blob/main/tasks/week2/Screenshot2.png)
+
